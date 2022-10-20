@@ -112,3 +112,5 @@ def game_loop():
 #Here is what runs our entire code
 #-----------------------------
 game_loop()
+
+# Here is a pointless comment.
